@@ -1,1 +1,2 @@
 # lotto-project
+Varga Viktor
