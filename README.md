@@ -2,4 +2,4 @@
 Varga Viktor
 Falusi Ramón
 Fülöp György
-asd
+Tomi adj életjelet pls xDD
