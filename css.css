@@ -1,0 +1,40 @@
+h1, h2{
+    text-align: center;
+    text-align: justify;
+}
+.kep{
+    width: 250px;
+    height: 200px;
+}
+div{
+    width: 250px;
+    background-color: rgba(90, 82, 82, 0.685);
+    color: white;
+}
+.baloldal{
+    background-color: rgba(90, 82, 82, 0.685);
+    margin-top: auto;
+}
+.labda{
+    width:400px;
+    height: 150px;
+}
+img{
+    width: 500px;
+}
+
+li{
+    border: 1px, solid rgba(104, 100, 100, 0.685);
+    font-size: 20px;
+    padding: 5px;
+}
+.jobboldal{
+    margin: 400px;
+    margin-top: -550px;
+    background-color: white;
+    color: black;
+    width: 300px;
+}
+.keret{
+    border: 1px solid black;
+}
