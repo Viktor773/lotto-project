@@ -36,6 +36,9 @@ li{
     width: 300px;
 }
 .teszt{
-    width: 100px;
-    height: 100px;
+    margin: 400px;
+    margin-top: -550px;
+    background-color: white;
+    color: black;
+    width: 300px;
 }
