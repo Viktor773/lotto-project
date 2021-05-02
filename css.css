@@ -1,18 +1,19 @@
-h1, h2{
+h1, h3{
     text-align: center;
     text-align: justify;
+    font-size: 30px;
 }
 .kep{
     width: 250px;
     height: 200px;
 }
 div{
-    width: 250px;
+    width: 350px;
     background-color: rgba(90, 82, 82, 0.685);
     color: white;
 }
 .baloldal{
-    background-color: rgba(90, 82, 82, 0.685);
+    background-color: rgba(104, 100, 100, 0.685);
     margin-top: auto;
 }
 .labda{
@@ -23,26 +24,40 @@ img{
     width: 500px;
 }
 
-li{
-    border: 1px, solid rgba(104, 100, 100, 0.685);
+p{
     font-size: 20px;
     padding: 5px;
 }
 .jobboldal{
     margin: 400px;
-    margin-top: -550px;
+    margin-top: -580px;
     background-color: white;
     color: black;
-    width: 300px;
+    width: 480px;
 }
-.jobb oldal{
-    margin: -400px;
-    margin-top: -550px;
+.jobb_oldal{
+    margin: 400px;
+    margin-top: -570px;
     background-color: white;
     color: black;
-    width: 300px;
+    width: 500px;
 }
 .kep1{
-    width: 400px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
+}
+.hatter{
+    width: 350px;
+    height: 200px;
+    
+}
+body{
+    border: 1px solid;
+    width: 900px;
+    height: 580px;
+}
+.masodik{
+    border: 1px solid;
+    width: 900px;
+    height: 575px;
 }
