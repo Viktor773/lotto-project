@@ -30,7 +30,7 @@ p{
 }
 .jobboldal{
     margin: 400px;
-    margin-top: -580px;
+    margin-top: -570px;
     background-color: white;
     color: black;
     width: 480px;
@@ -54,10 +54,21 @@ p{
 body{
     border: 1px solid;
     width: 900px;
-    height: 580px;
+    height: 575px;
 }
 .masodik{
     border: 1px solid;
     width: 900px;
     height: 575px;
+}
+.jobbOldal{
+    margin: 400px;
+    margin-top: -570px;
+    background-color: white;
+    color: black;
+    width: 500px;
+}
+a, p{
+    text-decoration: none;
+    color: white;
 }
