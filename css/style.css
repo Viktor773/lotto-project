@@ -1,74 +1,82 @@
-h1, h3{
-    text-align: center;
-    text-align: justify;
-    font-size: 30px;
-}
-.kep{
-    width: 250px;
-    height: 200px;
-}
-div{
-    width: 350px;
-    background-color: rgba(90, 82, 82, 0.685);
-    color: white;
-}
-.baloldal{
-    background-color: rgba(104, 100, 100, 0.685);
-    margin-top: auto;
-}
-.labda{
-    width:400px;
-    height: 150px;
-}
-img{
-    width: 500px;
+body, html
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    height: 100%;
 }
 
-p{
-    font-size: 20px;
-    padding: 5px;
-}
-.jobboldal{
-    margin: 400px;
-    margin-top: -570px;
-    background-color: white;
-    color: black;
-    width: 480px;
-}
-.jobb_oldal{
-    margin: 400px;
-    margin-top: -570px;
-    background-color: white;
-    color: black;
-    width: 500px;
-}
-.kep1{
-    width: 100px;
-    height: 100px;
-}
-.hatter{
-    width: 350px;
-    height: 200px;
+
+#jobb
+{
+    width: 70%;
+    float: right;
+    margin: auto;
     
 }
-body{
-    border: 1px solid;
-    width: 900px;
-    height: 575px;
+#jobb h1 {font-size: 60px;}
+#jobb * {
+    margin-left: 100px;
 }
-.masodik{
-    border: 1px solid;
-    width: 900px;
-    height: 575px;
+
+#bal
+{
+    width: 30%;
+    height: 100%;
+    background-color: rgb(96, 105, 114);
+    float: left;
+    line-height: 30px;
 }
-.jobbOldal{
-    margin: 400px;
-    margin-top: -570px;
-    background-color: white;
-    color: black;
-    width: 500px;
+
+#bal h2
+{
+    font-size: 17px;
+    margin-left: 30px;
 }
-a, p{
+
+#bal img {width: 100%;}
+#bal ul li a {
     text-decoration: none;
     color: white;
+}
+h2
+{
+    text-align: left;
+    margin-left: 50px;
+    font-size: 35px;
+}
+hr
+{
+    width: 90%;
+    border-color: grey;
+}
+
+.golyo 
+{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    background-size: 100px;
+    background-repeat: no-repeat;
+}
+.golyo-piros
+{
+    background-image: url("../kepek/piros.png");
+}
+.golyo-narancs
+{
+    background-image: url("../kepek/narancs.png");
+}
+.golyo-zold
+{
+    background-image: url("../kepek/zold.png");
+}
+.golyo-kek
+{
+    background-image: url("../kepek/kek.png");
+}
+.golyo-lila
+{
+    background-image: url("../kepek/lila.png");
 }
