@@ -1,0 +1,74 @@
+h1, h3{
+    text-align: center;
+    text-align: justify;
+    font-size: 30px;
+}
+.kep{
+    width: 250px;
+    height: 200px;
+}
+div{
+    width: 350px;
+    background-color: rgba(90, 82, 82, 0.685);
+    color: white;
+}
+.baloldal{
+    background-color: rgba(104, 100, 100, 0.685);
+    margin-top: auto;
+}
+.labda{
+    width:400px;
+    height: 150px;
+}
+img{
+    width: 500px;
+}
+
+p{
+    font-size: 20px;
+    padding: 5px;
+}
+.jobboldal{
+    margin: 400px;
+    margin-top: -570px;
+    background-color: white;
+    color: black;
+    width: 480px;
+}
+.jobb_oldal{
+    margin: 400px;
+    margin-top: -570px;
+    background-color: white;
+    color: black;
+    width: 500px;
+}
+.kep1{
+    width: 100px;
+    height: 100px;
+}
+.hatter{
+    width: 350px;
+    height: 200px;
+    
+}
+body{
+    border: 1px solid;
+    width: 900px;
+    height: 575px;
+}
+.masodik{
+    border: 1px solid;
+    width: 900px;
+    height: 575px;
+}
+.jobbOldal{
+    margin: 400px;
+    margin-top: -570px;
+    background-color: white;
+    color: black;
+    width: 500px;
+}
+a, p{
+    text-decoration: none;
+    color: white;
+}
