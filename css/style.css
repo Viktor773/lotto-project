@@ -1,4 +1,6 @@
-body, html
+html {height: 100%;}
+
+body
 {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
@@ -60,23 +62,23 @@ hr
     background-size: 100px;
     background-repeat: no-repeat;
 }
-.golyo-piros
+.golyo-piros 
 {
     background-image: url("../kepek/piros.png");
 }
-.golyo-narancs
+.golyo-narancs 
 {
-    background-image: url("../kepek/narancs.png");
+    background-image: url("../kepek/narancs.jpg");
 }
-.golyo-zold
+.golyo-zold 
 {
-    background-image: url("../kepek/zold.png");
+    background-image: url("../kepek/zold.jpg");
 }
-.golyo-kek
+.golyo-kek 
 {
-    background-image: url("../kepek/kek.png");
+    background-image: url("../kepek/kek.jpg");
 }
-.golyo-lila
+.golyo-lila 
 {
-    background-image: url("../kepek/lila.png");
+    background-image: url("../kepek/lila.jpg");
 }
